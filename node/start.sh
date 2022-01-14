@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-node index.js 
+make up language=node index.js
